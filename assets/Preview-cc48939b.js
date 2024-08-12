@@ -1,0 +1,1 @@
+import{aH as e,o as s,m as t,p as o}from"./index-ea3acba7.js";const _={},a={class:"about"},c=o("h1",null,"This is an about page",-1),n=[c];function r(i,d){return s(),t("div",a,n)}const u=e(_,[["render",r]]);export{u as default};
