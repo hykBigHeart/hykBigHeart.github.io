@@ -1,0 +1,60 @@
+[
+  {
+    "title": "用户上传",
+    "type": "video",
+    "items": [
+      {
+        "name": "video_1",
+        "format": "mp4",
+        "cover": "/image/video/video_1.png",
+        "source": "/video/video_1.mp4",
+        "width": 1232,
+        "height": 720,
+        "fps": 30,
+        "frameCount": 712
+      },
+      {
+        "name": "video_2",
+        "format": "mp4",
+        "cover": "/image/video/video_2.png",
+        "source": "/video/video_2.mp4",
+        "width": 1242,
+        "height": 652,
+        "fps": 30,
+        "frameCount": 150
+      }
+    ]
+  },
+  {
+    "title": "热门",
+    "type": "video",
+    "items": [
+      {
+        "name": "video_3",
+        "format": "mp4",
+        "cover": "/image/video/video_3.png",
+        "source": "/video/video_3.mp4",
+        "width": 1242,
+        "height": 652,
+        "fps": 30,
+        "frameCount": 150
+      }
+    ]
+  },
+  {
+    "title": "搞笑片段",
+    "type": "video",
+    "items": [
+      {
+        "name": "video_4",
+        "format": "mp4",
+        "cover": "/image/video/video_4.png",
+        "width": 650,
+        "height": 652,
+        "frameCount": 150,
+        "fps": 30,
+        "source": "/video/video_4.mp4"
+      }
+    ]
+  }
+]
